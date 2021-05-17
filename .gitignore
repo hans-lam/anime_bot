@@ -1,0 +1,13 @@
+# Discord bot json packages 
+package.json 
+package-lock.json 
+
+# Node Modules 
+node_modules/ 
+
+# Anime Storage 
+animes.json 
+
+# Test Commands 
+embed.js 
+ping.js
