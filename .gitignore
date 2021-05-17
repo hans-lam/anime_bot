@@ -8,6 +8,9 @@ node_modules/
 # Anime Storage 
 animes.json 
 
+# Config 
+keys.json
+
 # Test Commands 
 embed.js 
 ping.js
